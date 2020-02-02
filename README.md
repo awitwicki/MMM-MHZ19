@@ -1,4 +1,4 @@
-# MMM-BME280
+# MMM-MHZ19
 
   
 
@@ -88,7 +88,7 @@ For more details about BCM pin numbers check [here](http://www.raspberrypi-spy.c
 
   
 
-### Test MH-Z19 module
+## Test MH-Z19 module
 
 1. Navigate into your **MagicMirror** folder
 2. Run .sh script `./modules/MMM-MHZ19/mh_z19.sh`
